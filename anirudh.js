@@ -39,7 +39,7 @@ const music_list = [
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : 'music/Dippam Dappam.mp3'
+        music : ''
     },
     {
         img : 'img/ani.png',
