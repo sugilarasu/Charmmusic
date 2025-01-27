@@ -24,77 +24,77 @@ const music_list = [
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Arabic Kuthu - Halamithi Habibo.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Badass.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Bae (From Don).mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Dippam Dappam.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Kaavaalaa.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Kadharalz.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Darling Dambakku.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Manasilaayo.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Naa Ready.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Ordinary Person.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Takkunu Takkunu.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Thaai Kelavi.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Open the Tasmac.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Private Party.mp3'
     },
     {
         img : 'img/ani.png',
         artist : 'Anirudh Ravichander',
-        music : ''
+        music : 'music/Two Two Two.mp3'
     },
     {
         img : 'img/ani.png',
