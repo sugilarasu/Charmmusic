@@ -34,11 +34,6 @@ const music_list = [
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : 'music/Polladhavan - Padichi Parthen Video Song _ Dhanush _ Vetrimaaran _ GV Prakash _ S Kathiresan(MP3_160K).mp3'
-    },
-    {
-        img : 'img/GV.png',
-        artist : 'G. V. Prakash Kumar',
         music : 'music/Anbe Anbe _ Full Song with Lyrics _ Darling(MP3_160K).mp3'
     },
     {
@@ -74,17 +69,22 @@ const music_list = [
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : 'music/Vaa Senthaazhini Video Song _ Adiyae _ G.V.Prakash Kumar_ Gouri Kishan _Justin Prabhakaran _ Vignesh(MP3_160K).mp3'
-    },
-    {
-        img : 'img/GV.png',
-        artist : 'G. V. Prakash Kumar',
         music : 'music/Vaane Vaane - Video Song _ Amaran _ Sivakarthikeyan_ Sai Pallavi _ GV Prakash _ Rajkumar Periasamy(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : 'music/Vennilavu Saaral - Video Song _ Amaran _ Sivakarthikeyan_ Sai Pallavi _ GV Prakash _ Rajkumar(MP3_160K).mp3'
+        music : 'music/Vaa Senthaazhini Video Song _ Adiyae _ G.V.Prakash Kumar_ Gouri Kishan _Justin Prabhakaran _ Vignesh(MP3_160K).mp3'
+    },
+    {
+        img : 'img/GV.png',
+        artist : 'G. V. Prakash Kumar',
+        music : ''
+    },
+    {
+        img : 'img/GV.png',
+        artist : 'G. V. Prakash Kumar',
+        music : ''
     },
     {
         img : 'img/GV.png',
