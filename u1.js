@@ -24,32 +24,32 @@ const music_list = [
     {
         img : 'img/u1.png',
         artist : 'Yuvan Shankar Raja',
-        music : ''
+        music : 'music/Paiya - En Kadhal Solla Video _ Karthi_ Tamannah _ Yuvan Shankar Raja(MP3_160K).mp3'
     },
     {
         img : 'img/u1.png',
         artist : 'Yuvan Shankar Raja',
-        music : ''
+        music : 'music/Oru Kal Oru Kannadi - Video Song _ Siva Manasula Sakthi _ Yuvan Shankar Raja _ Jiiva _ Sun Music(M4A_128K).m4a'
     },
     {
         img : 'img/u1.png',
         artist : 'Yuvan Shankar Raja',
-        music : ''
+        music : 'music/Kan Pesum Varthaigal Lyrics Song _ 7G Rainbow Colony _ Ravi Krishna _ Sonia Agarwal _ Yuvan(M4A_128K).m4a'
     },
     {
         img : 'img/u1.png',
         artist : 'Yuvan Shankar Raja',
-        music : ''
+        music : 'music/Paiya - En Kadhal Solla Video _ Karthi_ Tamannah _ Yuvan Shankar Raja(MP3_160K).mp3'
     },
     {
         img : 'img/u1.png',
         artist : 'Yuvan Shankar Raja',
-        music : ''
+        music : 'music/Arabu Naade - Lyrical _ Thottal Poo Malarum _ Yuvan Shankar Raja _ Haricharan _ Vaali(M4A_128K).m4a'
     },
     {
         img : 'img/u1.png',
         artist : 'Yuvan Shankar Raja',
-        music : ''
+        music : 'music/Full Video_ MATTA _ The Greatest Of All Time _ Thalapathy Vijay _ Venkat Prabhu _Yuvan Shankar Raja(MP3_160K).mp3'
     },
     {
         img : 'img/u1.png',

@@ -24,67 +24,67 @@ const music_list = [
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Aadukalam - Ayyayo Tamil Lyric Video _ Dhanush _ G.V. Prakash Kumar(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Aadukalam - Otha Sollaala Tamil Lyric Video _ Dhanush _ G.V. Prakash Kumar(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Polladhavan - Padichi Parthen Video Song _ Dhanush _ Vetrimaaran _ GV Prakash _ S Kathiresan(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Anbe Anbe _ Full Song with Lyrics _ Darling(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Golden Sparrow Lyric Video _ Dhanush _ Priyanka Mohan _ Pavish _ Anikha _ GV Prakash _NEEK(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Hey Minnale - Video Song _ Amaran _ Sivakarthikeyan_ Sai Pallavi _ GV Prakash _ Rajkumar Periasamy(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Jail - Kaathodu Kaathanen Video _ G.V. Prakash Kumar_ Abarnathy _ Dhanush(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Madharasapattinam - Pookkal Pookkum Video _ Aarya_ Amy Jackson(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Pirai Thedum Iravilae Tamil Video Song _ Mayakkam Enna _ G.V. Prakash _ Dhanush_ Richa(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Trisha Illana Nayanthara - Yennachu Yedhachu Video _ G.V. Prakash Kumar_ Anandhi(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Vaa Senthaazhini Video Song _ Adiyae _ G.V.Prakash Kumar_ Gouri Kishan _Justin Prabhakaran _ Vignesh(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Vaane Vaane - Video Song _ Amaran _ Sivakarthikeyan_ Sai Pallavi _ GV Prakash _ Rajkumar Periasamy(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
         artist : 'G. V. Prakash Kumar',
-        music : ''
+        music : 'music/Vennilavu Saaral - Video Song _ Amaran _ Sivakarthikeyan_ Sai Pallavi _ GV Prakash _ Rajkumar(MP3_160K).mp3'
     },
     {
         img : 'img/GV.png',
