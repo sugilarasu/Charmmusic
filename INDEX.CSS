@@ -95,5 +95,6 @@ i{
     body{
         /* float: left; */
         width: 500%;
+        columns: 1;
     }
 }
