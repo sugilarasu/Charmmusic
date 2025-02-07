@@ -23,237 +23,179 @@ let updateTimer;
 const music_list = [
     {
         img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
+        artist : 'S. P. Balasubrahmanyam',
         music : ''
     },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
- {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-    {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
- {
-        img : 'img/santhosh.png',
-        artist : 'Santhosh Narayanan',
-        music : ''
-    },
-
-
    
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    {
+        img : 'img/santhosh.png',
+        artist : 'S. P. Balasubrahmanyam',
+        music : ''
+    },
+   
+    
 ];
 
 loadTrack(track_index);

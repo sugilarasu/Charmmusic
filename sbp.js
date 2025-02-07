@@ -306,8 +306,7 @@ const music_list = [
         artist : 'S. P. Balasubrahmanyam',
         music : ''
     },
-   
-   
+    
 ];
 
 loadTrack(track_index);
