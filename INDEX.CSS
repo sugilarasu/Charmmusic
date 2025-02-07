@@ -4,15 +4,17 @@
     
 }
 body{
-    background-image: url(img/bg2.gif);
+    /* background-image: url(img/bg2.gif); */
+    background-color: rgb(70, 67, 67);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100%; 
 }
 ul,nav{
     display:flex;
     height: 65PX;
-    background-color: rgba(255, 255, 255, 0.388);
+    /* background-color: rgba(255, 255, 255, 0.516); */
+    background-color: rgb(70, 67, 67);
     /* background: transparent; */
     align-items: center;
     list-style-type: none;
@@ -44,7 +46,7 @@ li{
    transition: 2s;
 }
 li:hover{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(164, 217, 238, 0.495);
     /* color: white; */
     /* border-width:3px; */
     transition: 1s;
@@ -84,4 +86,14 @@ filter: brightness(1.5);
 }
 h2{
     font-size: smaller;
+}
+i{
+    color: azure;
+}
+
+@media screen and (max-width:768px) {
+    body{
+        /* float: left; */
+        width: 100%;
+    }
 }
