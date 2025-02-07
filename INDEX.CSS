@@ -91,7 +91,7 @@ i{
     color: azure;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:968px) {
     body{
         /* float: left; */
         width: 500%;
