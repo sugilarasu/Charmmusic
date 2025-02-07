@@ -209,6 +209,9 @@ body {
   .stroke:nth-child(7){
       animation-delay: 0s;
   }
+  i{
+    color: azure;
+}
   
   ul,nav{
     display:flex;

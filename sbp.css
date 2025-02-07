@@ -221,6 +221,9 @@ body {
       color: rgb(0, 0, 0);
     
   }
+  i{
+    color: azure;
+}
   nav ul li{
     padding: 23px;
     margin: 29.3px;

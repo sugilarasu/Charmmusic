@@ -230,6 +230,9 @@ body {
       padding: 10px;
   
   }
+  i{
+    color: azure;
+}
   .sugil{
       width: 750px;
       border-radius: 50px;

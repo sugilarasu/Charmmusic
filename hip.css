@@ -239,6 +239,9 @@ nav ul li{
     padding-left: 35px; 
     align-items: center;
 }
+i{
+  color: azure;
+}
 li{
     cursor: pointer;
    transition: 2s;

@@ -225,6 +225,9 @@ body {
     padding: 23px;
     margin: 29.3px;
   }
+  i{
+    color: azure;
+}
   .brand {
       display: flex;
       padding: 10px;
