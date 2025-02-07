@@ -90,11 +90,3 @@ h2{
 i{
     color: azure;
 }
-
-@media screen and (max-width:968px) {
-    body{
-        /* float: left; */
-        width: 500%;
-        columns: 1;
-    }
-}
