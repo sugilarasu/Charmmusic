@@ -58,14 +58,17 @@ li:hover{
 .box{
     align-items: center;
     border-color:wheat;
-    display: inline-block;
+    display:inline-block;
     color: white;
     text-align: center;
     padding: 27PX;
     cursor: pointer;
 transition: 1s;
 filter: brightness(1);
-}
+
+
+ }
+
 H1{
     color: white;
     padding: 3PX;
