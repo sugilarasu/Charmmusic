@@ -3,7 +3,37 @@
 let All_song = [
     {
       name: "",
-      path: "",
+      path: "music/santhosh 1.mp3",
+      img: "img/santhosh.png",
+      singer: "Santhosh Narayanan"
+    },
+    {
+      name: "",
+      path: "music/santhosh 2.mp3",
+      img: "img/santhosh.png",
+      singer: "Santhosh Narayanan"
+    },
+    {
+      name: "",
+      path: "music/santhosh3.mp3",
+      img: "img/santhosh.png",
+      singer: "Santhosh Narayanan"
+    },
+    {
+      name: "",
+      path: "music/santhosh4.mp3",
+      img: "img/santhosh.png",
+      singer: "Santhosh Narayanan"
+    },
+    {
+      name: "",
+      path: "music/santhosh5.mp3",
+      img: "img/santhosh.png",
+      singer: "Santhosh Narayanan"
+    },
+    {
+      name: "",
+      path: "music/santhosh6.mp3",
       img: "img/santhosh.png",
       singer: "Santhosh Narayanan"
     },
@@ -15,49 +45,43 @@ let All_song = [
     },
     {
       name: "",
-      path: "",
+      path: "music/santhosh7.mp3",
       img: "img/santhosh.png",
       singer: "Santhosh Narayanan"
     },
     {
       name: "",
-      path: "",
+      path: "music/santhosh8.mp3",
       img: "img/santhosh.png",
       singer: "Santhosh Narayanan"
     },
     {
       name: "",
-      path: "",
+      path: "music/santhosh9.mp3",
       img: "img/santhosh.png",
       singer: "Santhosh Narayanan"
     },
     {
       name: "",
-      path: "",
+      path: "music/santhosh10.mp3",
       img: "img/santhosh.png",
       singer: "Santhosh Narayanan"
     },
     {
       name: "",
-      path: "",
+      path: "music/santhosh11.mp3",
       img: "img/santhosh.png",
       singer: "Santhosh Narayanan"
     },
     {
       name: "",
-      path: "",
+      path: "music/santhosh12.mp3",
       img: "img/santhosh.png",
       singer: "Santhosh Narayanan"
     },
     {
       name: "",
-      path: "",
-      img: "img/santhosh.png",
-      singer: "Santhosh Narayanan"
-    },
-    {
-      name: "",
-      path: "",
+      path: "music/santhosh13.mp3",
       img: "img/santhosh.png",
       singer: "Santhosh Narayanan"
     },
