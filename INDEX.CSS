@@ -4,11 +4,12 @@
     
 }
 body{
-    /* background-image: url(img/bg2.gif); */
-    background-color: rgb(70, 67, 67);
+    background-image: url(img/bg\ drum.gif);
+    /* background-color: rgb(70, 67, 67); */
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 100%; 
+    background-size: 100%;
+    image-orientation: 1px;
 }
 ul,nav{
     display:flex;
@@ -73,8 +74,8 @@ H1{
     color: white;
     padding: 3PX;
     margin:4PX;
-    transition: 4s;
-    transform:translateZ(313px);
+    /* transition: 4s;
+    transform:translateZ(313px); */
 }
 .box:hover{
     background-color:rgb(64, 64, 64);
@@ -89,8 +90,10 @@ background: transparent;
 filter: brightness(1.5);
 }
 h2{
-    font-size: smaller;
+    font-size:16px;
+    font-variant-caps:all-petite-caps;
 }
 i{
     color: azure;
 }
+
