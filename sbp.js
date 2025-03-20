@@ -193,55 +193,49 @@
 let All_song = [
     {
       name: "",
-      path: "music/sbp/மண்ணில் இந்த காதலின்றி _Mannilintha _S.P.B Radhika Super Hit Love Song __ With Subtitles(MP3_160K).mp3",
+      path: "music/மண்ணில் இந்த காதலின்றி _Mannilintha _S.P.B Radhika Super Hit Love Song __ With Subtitles(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/புது புது அர்த்தங்கள் - Kalyana Maalai Video Song _ Pudhu Pudhu Arthangal _ Rahman_ Sithara_ Geetha_(MP3_160K).mp3",
+      path: "music/புது புது அர்த்தங்கள் - Kalyana Maalai Video Song _ Pudhu Pudhu Arthangal _ Rahman_ Sithara_ Geetha_(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/தென்பாண்டித் தமிழே SONG_ Thenpandi Thamizhe Video Song _ KJ Yesudas_ Chitra Hits _ Ilayaraja Hits(MP3_160K).mp3",
+      path: "music/தென்பாண்டித் தமிழே SONG_ Thenpandi Thamizhe Video Song _ KJ Yesudas_ Chitra Hits _ Ilayaraja Hits(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/என்னை தொட்டு அள்ளி கொண்ட மன்னன் பேரும் யென்னடி _ Ennai Thottu Alli Kond(MP3_1.mp3",
+      path: "music/என்னை தொட்டு அள்ளி கொண்ட மன்னன் பேரும் யென்னடி _ Ennai Thottu Alli Kond(MP3_1.mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/என்னவென்று சொல்வதம்மா_ Rajakumaran_Super Hit Prabhu Meena Nadhiya Tamil Songs _Hornpipe Record Label(MP3_160K).mp3",
+      path: "music/என்னவென்று சொல்வதம்மா_ Rajakumaran_Super Hit Prabhu Meena Nadhiya Tamil Songs _Hornpipe Record Label(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Sundari Kannaal Oru Sethi Song HD _ Thalapathi _ சுந்தரி கண்ணால் ஒரு(MP3_160K).mp3",
+      path: "music/Sundari Kannaal Oru Sethi Song HD _ Thalapathi _ சுந்தரி கண்ணால் ஒரு(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Thanni Thotti Thedi_ Super Hit Video Song_ Sindhu Bhairavi_ Sivakumar_ Sugasini(MP3_160K).mp3",
+      path: "music/Thanni Thotti Thedi_ Super Hit Video Song_ Sindhu Bhairavi_ Sivakumar_ Sugasini(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Thendral Vanthu Theendumbothu Video Song _ Avatharam Tamil Movie Songs _ தென்றல் வந்து தீண்டும்போது(MP3_160K).mp3",
-      img: "img/spb.png",
-      singer: "S. P. Balasubrahmanyam"
-    },
-    {
-      name: "",
-      path: "",
+      path: "music/Thendral Vanthu Theendumbothu Video Song _ Avatharam Tamil Movie Songs _ தென்றல் வந்து தீண்டும்போது(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
@@ -253,80 +247,86 @@ let All_song = [
     },
     {
       name: "",
-      path: "music/sbp/Sathya _ Valai Osai _ Ilaiyaraaja _ S. P. Balasubrahmanyam_ Lata Mangeshkar _ Kamal Haasan(MP3_160K).mp3",
+      path: "",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Sangeetha Megam Video Song  - Udhaya Geetham  Sangeetha Megam Then - Ilayaraja SPB Tamil Hits(MP3_160K).mp3",
+      path: "music/Sathya _ Valai Osai _ Ilaiyaraaja _ S. P. Balasubrahmanyam_ Lata Mangeshkar _ Kamal Haasan(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Saamurai - Oru Nadhi song(MP3_160K).mp3",
+      path: "music/Sangeetha Megam Video Song  - Udhaya Geetham  Sangeetha Megam Then - Ilayaraja SPB Tamil Hits(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Saamurai - Aagaya Sooriyanai song(MP3_160K).mp3",
+      path: "music/Saamurai - Oru Nadhi song(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Nenjukkule Innarendru Video Song _ Ponnumani Tamil Movie _ Karthik _ Soundarya _ Ilaiyaraaja(MP3_160K).mp3",
+      path: "music/Saamurai - Aagaya Sooriyanai song(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/neethane naal thorum - paaddu vaathiyaar - illaiyaraja(MP3_160K).mp3",
+      path: "music/Nenjukkule Innarendru Video Song _ Ponnumani Tamil Movie _ Karthik _ Soundarya _ Ilaiyaraaja(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/naan pollathavan song _ polladhavan _ Rajini _ நான் பொல்லாதவன் பொய் சொல்லாதவன்(MP3_160K).mp3",
+      path: "music/neethane naal thorum - paaddu vaathiyaar - illaiyaraja(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Mohan Hits - Ilaya Nila Pozhigirathe HD Song 1(MP3_160K).mp3",
+      path: "music/naan pollathavan song _ polladhavan _ Rajini _ நான் பொல்லாதவன் பொய் சொல்லாதவன்(MP3_160K).mp3",
+      img: "img/spb.png",
+      singer: "S. P. Balasubrahmanyam"
+    },
+    {
+      name: "",
+      path: "music/Mohan Hits - Ilaya Nila Pozhigirathe HD Song 1(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
 
     {
       name: "",
-      path: "music/sbp/Mandram Vandha Thendralukku Video Songs _ Tamil Songs _ Mouna Raagam _ Mohan_ Revathy(MP3_160K).mp3",
+      path: "music/Mandram Vandha Thendralukku Video Songs _ Tamil Songs _ Mouna Raagam _ Mohan_ Revathy(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Kannalanae Full Video Song _ Bombay Tamil Movie Songs _ Arvind Swamy _ Manirathnam _ AR Rahman(MP3_160K).mp3",
+      path: "music/Kannalanae Full Video Song _ Bombay Tamil Movie Songs _ Arvind Swamy _ Manirathnam _ AR Rahman(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/kattukulle manasukkulle HD _ காட்டுக்குயிலே _ Thalapathy _ SPB _ Jesudas _ Ilaiyaraja(MP3_160K).mp3",
+      path: "music/kattukulle manasukkulle HD _ காட்டுக்குயிலே _ Thalapathy _ SPB _ Jesudas _ Ilaiyaraja(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Kadhalikum Pennin Video Song _ Kadhalan Movie Songs _ Prabhudeva _ Nagma _ SPB _ AR Rahman(MP3_160K).mp3",
+      path: "music/Kadhalikum Pennin Video Song _ Kadhalan Movie Songs _ Prabhudeva _ Nagma _ SPB _ AR Rahman(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
     {
       name: "",
-      path: "music/sbp/Kadhalenum _ Kadhalar Dhinam _ A.R.Rahman _ Kunal _ Sonali Bendre(MP3_160K).mp3",
+      path: "music/Kadhalenum _ Kadhalar Dhinam _ A.R.Rahman _ Kunal _ Sonali Bendre(MP3_160K).mp3",
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
