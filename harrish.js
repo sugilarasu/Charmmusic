@@ -420,9 +420,35 @@ let All_song = [
     {
       name: "",
       path: "",
-      img: "",
-      singer: ""
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
     },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    
     
     
  ];
