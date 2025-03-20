@@ -100,11 +100,20 @@ function pause_song(){
 
        
 // function will run when the song is over
-	if (song[index_no].ended) {
-      clearInterval(update_second);
-  	  wave_animation.style.opacity = '0';
-      play_pause_btn.innerHTML = '<i class="fa fa-play" aria-hidden="true"></i>';
-    }
+	// if (song[index_no].ended) {
+  //     clearInterval(update_second);
+  // 	  wave_animation.style.opacity = '0';
+  //     play_pause_btn.innerHTML = '<i class="fa fa-play" aria-hidden="true"></i>';
+  //   }
+  // function will run when the song is over and move to next
+if (song[index_no].ended) {
+  index_no++;
+  if (index_no >= song.length) {
+      index_no = 0; // Loop back to the first song when reaching the end
+  }
+  play_song(); // Automatically play the next song
+}
+
  }
  
 

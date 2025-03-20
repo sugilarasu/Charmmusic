@@ -419,35 +419,326 @@
 let All_song = [
     {
       name: "",
-      path: "",
+      path: "music/harish/7 Aum Arivu - Mun Andhi Video _ Suriya_ Shruti _ Harris Jayaraj(MP3_160K).mp3",
       img: "img/harrish.png",
       singer: "Harris Jayaraj"
     },
     {
       name: "",
-      path: "",
+      path: "music/harish/Aadhavan - Damakku Damakku Video _ Suriya(MP3_160K).mp3",
       img: "img/harrish.png",
       singer: "Harris Jayaraj"
     },
     {
       name: "",
-      path: "",
+      path: "music/harish/Aadhavan - Vaarayo Vaarayo Video _ Suriya(MP3_160K).mp3",
       img: "img/harrish.png",
       singer: "Harris Jayaraj"
     },
     {
       name: "",
-      path: "",
+      path: "music/harish/Aadhavan - Yeno Yeno Panithuli Video _ Suriya(MP3_160K).mp3",
       img: "img/harrish.png",
       singer: "Harris Jayaraj"
     },
     {
       name: "",
-      path: "",
+      path: "music/harish/Anegan - Danga Maari Oodhari Video _ Dhanush _ Harris _ Super Hit Dance Song(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Anegan - Roja Kadale Video _ Dhanush _ Harris Jayaraj(MP3_160K).mp3",
       img: "img/harrish.png",
       singer: "Harris Jayaraj"
     },
   
+    {
+      name: "",
+      path: "music/harish/Anegan - Thodu Vaanam Video _ Dhanush _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Chellamae Tamil Movie Video Songs _ Kadhalikkum Aasai Song _ Vishal _ Reema Sen _ Bharath(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Enadhuyire Super Song _ Bheema _ Vikram _ Trisha _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Endrendrum Punnagai - Ennai Saaithaalae Video _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Engeyum Kaadhal - Dhimu Dhimu Video _ Jayam Ravi_ Hansika _ Harris(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Engeyum Kaadhal - Nenjil Nenjil Video _ Jayam Ravi_ Hansika _ Harris(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Engeyum Kaadhal - Lolita Video _ Jayam Ravi_ Hansika _ Harris(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Engeyum Kaadhal - Thee Illai Video _ Jayam Ravi_ Hansika _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Irandaam Ulagam - Kani Mozhiyae Video _ Arya_ Anushka(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Irandaam Ulagam - Mannavane Video _ Arya_ Anushka(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Iru Mugan - Halena Video _ Vikram_ Nayanthara _ Harris Jayaraj _ Super Hit Song(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Iru Mugan - Kannai Vittu Tamil Video _ Vikram_ Nayanthara _ Harris(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Ko - Amali Thumali Video _ Jiiva_ Karthika _ Harris(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Ko - Venpaniye Video _ Jiiva_ Karthika _ Harris(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Maattrraan - Naani Koni Video _ Suriya_ Kajal Agarwal(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Minnale _ Vaseegara song _ Bombay Jayashri _ Harris Jayaraj _ Gautham Vasudev Menon(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Oru Kal Oru Kannadi - Azhage Azhage Video _ Udhayanidhi_ Hansika(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Mudhal Mazhai Super Song _ Bheema _ Vikram _ Trisha _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Oru Mugamo Super Song _ Bheema _ Vikram _ Trisha _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Ragasiya Kanavugal Super Song _ Bheema _ Vikram _ Trisha _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Saamurai - Aagaya Sooriyanai song(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Siru Paarvayale Song _ Bheema _ Vikram _ Trisha _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+  
+    {
+      name: "",
+      path: "music/harish/Suttum Vizhi Video Song - Ghajini _ Suriya _ Asin _ Nayanthara _ Harris Jayaraj _ A.R. Murugadoss(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Vaaranam Aayiram - Adiyae Kolluthey Video _ Harris Jayaraj _ Suriya(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Vaaranam Aayiram - Annul Maelae Video _ Harris Jayaraj _ Suriya(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Vaaranam Aayiram - Ava Enna Video _ Harris Jayaraj _ Suriya(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Vaaranam Aayiram - Mundhinam Video _ Harris Jayaraj _ Suriya(MP3_160K)_1.mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+
+    {
+      name: "",
+      path: "music/harish/Vaaranam Aayiram - Nenjukkul Peidhidum Video _ Harris Jayaraj _ Suriya(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Vaaranam Aayiram - Yethi Yethi Video _ Harris Jayaraj _ Suriya(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Vanamagan - Pachai Uduthiya Kaadu Lyric _ Jayam Ravi _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Vanamagan - Silu Silu Lyric_ Jayam Ravi _ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "music/harish/Yennai Arindhaal - Mazhai Vara Pogudhae Video _ Ajith_ Harris Jayaraj(MP3_160K).mp3",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/harrish.png",
+      singer: "Harris Jayaraj"
+    },
+
+
+  
+
     
     
     
