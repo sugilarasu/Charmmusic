@@ -2,6 +2,7 @@ let btn = document.querySelectorAll('.song #play_btn');
 let song = document.querySelectorAll('#music');
 
 
+
 /*popup music player part*/
 let p_m_player = document.querySelector('.popup_music_player');
 let down_player = document.querySelector('#down_player');
@@ -32,6 +33,8 @@ let artist_name = document.querySelector('#artist_name');
 let is_song_played = false;
 let song_status = false;
 let index_no = 0;
+
+
 
 
 btn.forEach((btn,index) => {

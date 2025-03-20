@@ -352,10 +352,63 @@ let All_song = [
     {
       name: "",
       path: "",
-      img: "",
-      singer: ""
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
     },
-    
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
+    {
+      name: "",
+      path: "",
+      img: "img/vidyasagar.png",
+      singer: "vidyasagar"
+    },
     
  ];
  /*you can add more song & images from you computer*/

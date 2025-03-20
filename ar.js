@@ -2,26 +2,26 @@
 
 let All_song = [
     {
-      name: "",
+      name: "Ennodu Nee Irundhaal",
       path: "music/ar 1.mp3",
       img: "img/ar.png",
       singer: "A. R. Rahman"
     },
     {
-      name: "",
+      name: " Moongil Thottam",
       path: "music/ar 2.mp3",
       img: "img/ar.png",
       singer: "A. R. Rahman"
     },
 
     {
-      name: "",
+      name: "Innum Konjam Naeram",
       path: "music/ar 3.mp3",
       img: "img/ar.png",
       singer: "A. R. Rahman"
     },
     {
-      name: "",
+      name: "Hosanna",
       path: "music/ar 4.mp3",
       img: "img/ar.png",
       singer: "A. R. Rahman"
@@ -33,13 +33,13 @@ let All_song = [
       singer: "A. R. Rahman"
     },
     {
-      name: "",
+      name: "OMG ponnu",
       path: "music/ar 6.mp3",
       img: "img/ar.png",
       singer: "A. R. Rahman"
     },
     {
-      name: "",
+      name: "Usure Pogudhey",
       path: "music/ar 7.mp3",
       img: "img/ar.png",
       singer: "A. R. Rahman"

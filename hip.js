@@ -94,55 +94,55 @@ let All_song = [
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Neeyum Naanum",
     path: "music/Neeyum Naanum Anbe.mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Nakkal Pudichavan",
     path: "music/Nakkal Pudichavan.mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Nee Nenacha",
     path: "music/Mr.Local _ Nee Nenacha Song Lyric Video _ Sivakarthikeyan_ Nayanthara _ Hiphop Tamizha _ M. Rajesh(MP3_160K).mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Breakup",
     path: "music/Breakup Song.mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Kerala",
     path: "music/Kerala Song.mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Naan Konjam Karuppu",
     path: "music/Naan Konjam Karuppu Thaan.mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Morattu Single",
     path: "music/Morattu Single.mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Erangi Vandhu",
     path: "music/Erangi Vandhu.mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
   },
   {
-    name: "",
+    name: "Kadhal Oru Aagayam",
     path: "music/Kadhal Oru Aagayam.mp3",
     img: "img/HIP2.png",
     singer: "Hiphop Tamizha Adhi"
