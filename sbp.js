@@ -390,12 +390,6 @@ let All_song = [
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
-    {
-      name: "",
-      path: "",
-      img: "img/spb.png",
-      singer: "S. P. Balasubrahmanyam"
-    },
     
     
  ];

@@ -729,12 +729,7 @@ let All_song = [
       img: "img/harrish.png",
       singer: "Harris Jayaraj"
     },
-    {
-      name: "",
-      path: "",
-      img: "img/harrish.png",
-      singer: "Harris Jayaraj"
-    },
+  
 
 
   
