@@ -31,18 +31,7 @@ let All_song = [
       img: "img/spb.png",
       singer: "S. P. Balasubrahmanyam"
     },
-    {
-      name: "",
-      path: "",
-      img: "img/spb.png",
-      singer: "S. P. Balasubrahmanyam"
-    },
-    {
-      name: "",
-      path: "",
-      img: "img/spb.png",
-      singer: "S. P. Balasubrahmanyam"
-    },
+    
     {
       name: "",
       path: "music/Sathya _ Valai Osai _ Ilaiyaraaja _ S. P. Balasubrahmanyam_ Lata Mangeshkar _ Kamal Haasan(MP3_160K).mp3",
