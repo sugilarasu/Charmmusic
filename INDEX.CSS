@@ -158,3 +158,62 @@ i{
         width: 70%;
     }
 }
+
+
+@media screen and (max-width: 768px) {
+    .main {
+      width: 95%;
+      height: 90vh;
+    }
+  
+    .controlls {
+      width: 90%;
+    }
+  
+    .tracks {
+      width: 95%;
+    }
+  
+    .tracks .song {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 10px;
+    }
+  
+    .tracks .song .more {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 5px;
+    }
+  
+    .controlls_btns button {
+      height: 40px;
+      width: 40px;
+    }
+  
+    .popup_music_player .song_img {
+      height: 150px;
+      width: 150px;
+    }
+  
+    .small_music_player {
+      padding: 0 10px;
+    }
+  
+    .s_player_img {
+      margin-right: 1em;
+    }
+  
+    .top_section h5 {
+      font-size: 1.2em;
+    }
+  
+    .song_description h3 {
+      font-size: 1em;
+    }
+  
+    .song_description p {
+      font-size: 0.9em;
+    }
+  }
+  

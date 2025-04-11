@@ -372,3 +372,15 @@ box-shadow: inset 5px 5px 5px rgba(0,0,0,0.2),
 	height: 20px;
   }
 }
+
+.download_btn {
+  margin-left: 10px;
+  background: #28a745;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 6px;
+  margin: 22px;
+
+}

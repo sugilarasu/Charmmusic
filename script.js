@@ -37,7 +37,23 @@ let index_no = 0;
 
 
 
-btn.forEach((btn,index) => {
+btn.forEach((btn,index) =>
+  
+  { 
+    let downloadBtns = document.querySelectorAll('.download_btn');
+
+downloadBtns.forEach((btn, index) => {
+  btn.addEventListener('click', function () {
+    const songSrc = song[index].getAttribute('src');
+    const link = document.createElement('a');
+    link.href = songSrc;
+    link.download = songSrc.split('/').pop(); // Extract file name from URL
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  });
+});
+
   btn.addEventListener('click', function(){
 
     s_m_player.style.transform = 'translateY(0px)';
