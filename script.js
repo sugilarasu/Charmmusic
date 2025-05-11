@@ -224,3 +224,21 @@ function play_song(){
   current_singer_name.innerHTML = All_song[index_no].singer;
   play_pause_btn.innerHTML = '<i class="fa fa-pause" aria-hidden="true"></i>';
 }
+let searchInput = document.querySelector('#search_input');
+let songItems = document.querySelectorAll('.song'); // Assumes each song is in a .song container
+
+searchInput.addEventListener('input', function () {
+  let filter = searchInput.value.toLowerCase();
+
+  songItems.forEach((item, i) => {
+    let title = All_song[i].name.toLowerCase();
+    let singer = All_song[i].singer.toLowerCase();
+
+    if (title.includes(filter) || singer.includes(filter)) {
+      item.style.display = ''; // Show matching
+    } else {
+      item.style.display = 'none'; // Hide non-matching
+    }
+  });
+});
+

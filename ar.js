@@ -115,3 +115,31 @@ let All_song = [
    tracks.insertAdjacentHTML("beforeend", Html);
  };
  
+
+ const syncedLyrics = {
+  "Arabic Kuthu": [
+    { time: 0, line: "Halamithi Habibo..." },
+    { time: 5, line: "Dance like fire baby..." },
+    { time: 10, line: "Namma ooru mass-u" }
+  ],
+  "Badass": [
+    { time: 0, line: "He's the badass" },
+    { time: 3, line: "He's the hero..." },
+    { time: 7, line: "You don’t mess with him" }
+  ]
+  // Add more songs in this format
+};
+
+music.src = All_song[index].path;
+music.play();
+
+updateDownload(All_song[index].path);
+startLyricSync(All_song[index].name);
+
+
+const lyricsDisplay = document.getElementById("lyrics_text");
+lyricsDisplay.style.opacity = 0;
+setTimeout(() => {
+  lyricsDisplay.innerText = lyrics[currentLyricIndex].line;
+  lyricsDisplay.style.opacity = 1;
+}, 100);

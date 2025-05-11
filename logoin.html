@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background:url(img/bg\ drum.gif);
+      height: 100vh;
+      background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+    }
+    .login-container {
+      background-color: rgba(255, 255, 255, 0.31);
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      width: 700px;
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+    input[type="text"],
+    input[type="password"] {
+      width: 54%;
+      padding: 10px;
+      margin: 0.5rem 0 1rem;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+
+    }
+    button {
+      width: 57%;
+      padding: 10px;
+      background-color: #4facfe;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    button:hover {
+      background-color: #00c6ff;
+    }
+    .error {
+      color: red;
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+    h1,h2{
+        font-variant: small-caps;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <h2>Login</h2>
+      <h1>charm music</h1>
+  <p>n the age of digital streaming, most popular music platforms are cluttered with ads or locked behind subscription models. Creating an ad-free music website using full stack development offers a refreshing alternative—allowing users to enjoy music without interruptions while also offering developers complete control over the platform's features and performance.</p>
+    <div class="error" id="error-msg"></div>
+    <center>
+    <input type="text" id="userInput" placeholder="Email or Phone" />
+    <input type="password" id="password" placeholder="Password" />
+    <button onclick="login()">Login</button>
+    </center>
+    <center>    
+    <h6>Creat a new acount ?<u>All ready have a account</u></h6>
+    </center> 
+  </div>
+
+  <script>
+    function login() {
+      const userInput = document.getElementById("userInput").value.trim();
+      const password = document.getElementById("password").value.trim();
+      const errorMsg = document.getElementById("error-msg");
+
+      if (!userInput || !password) {
+        errorMsg.textContent = "Please enter both fields.";
+        return;
+      }
+
+      // Simulated login check (can be replaced with real auth)
+      // Redirecting to index.html
+      window.location.href = "index.html";
+    }
+  </script>
+</body>
+</html>
