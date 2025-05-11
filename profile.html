@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Profile Popup</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    /* Basic styling */
+    body {
+      font-family: Arial, sans-serif;
+      
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    li {
+      cursor: pointer;
+      font-size: 24px;
+    }
+
+    /* Modal styling */
+    .modal {
+      display: none; /* Hidden by default */
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: white;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+      z-index: 1000;
+      width: 300px;
+    }
+
+    .modal.active {
+      display: block;
+    }
+
+    .modal-header {
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .modal-close {
+      float: right;
+      cursor: pointer;
+      color: red;
+    }
+
+    .overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 999;
+    }
+
+    .overlay.active {
+      display: block;
+    }
+    img{
+        radius: 100px;
+    }
+  </style>
+</head>
+<body>
+
+<ul>
+  <li id="profileIcon"><i class="fa-solid fa-user"></i></li>
+</ul>
+
+<!-- Overlay and Modal -->
+<div class="overlay" id="overlay"></div>
+<div class="modal" id="profileModal">
+  <div class="modal-header">
+    User Profile
+    <span class="modal-close" id="closeBtn">&times;</span>
+  </div>
+  <img src="img/image (6).png" height="50PX" width="40px" alt="Profile Image" class="profile-img">
+
+  <div><strong>Username:</strong> SUKIL</div>
+  <div><strong>Age:</strong> 21</div>
+  <div><strong>Gender:</strong> Male</div>
+  <div><strong>Date of Birth:</strong> 01-01-2004</div>
+</div>
+
+<script>
+  const profileIcon = document.getElementById('profileIcon');
+  const profileModal = document.getElementById('profileModal');
+  const closeBtn = document.getElementById('closeBtn');
+  const overlay = document.getElementById('overlay');
+
+  profileIcon.addEventListener('click', () => {
+    profileModal.classList.add('active');
+    overlay.classList.add('active');
+  });
+
+  closeBtn.addEventListener('click', () => {
+    profileModal.classList.remove('active');
+    overlay.classList.remove('active');
+  });
+
+  overlay.addEventListener('click', () => {
+    profileModal.classList.remove('active');
+    overlay.classList.remove('active');
+  });
+</script>
+
+</body>
+</html>
